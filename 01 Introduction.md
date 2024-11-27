@@ -138,7 +138,7 @@ AWS follows three fundamental pricing principles based on the pay-as-you-go pric
 - Understanding your responsibilities helps you implement appropriate security measures for your AWS environment.
 
 
-![[[Pasted image 20241127083436.png](https://github.com/tushargurav28/AWS-Notes/blob/main/Images/Pasted%20image%2020241127083436.png)]]
+![[image](https://github.com/tushargurav28/AWS-Notes/blob/main/Images/Pasted%20image%2020241127083436.png)]
 
 
 
